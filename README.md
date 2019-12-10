@@ -6,6 +6,8 @@ Unsupervised Recurrent Neural Network Grammars, [paper](https://arxiv.org/abs/19
 
 Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencoders, [paper](https://arxiv.org/abs/1904.02142), [code](https://github.com/iesl/diora).
 
+Unsupervised Learning of PCFGs with Normalizing Flow. [paper](https://www.aclweb.org/anthology/P19-1234/). [code](https://github.com/lifengjin/acl_flow).
+
 #### Task-oriented Grammar Induction
 
 Learning to Compose Task-Specific Tree Structures, [paper](https://arxiv.org/abs/1707.02786), [code](https://github.com/jihunchoi/unsupervised-treelstm).
