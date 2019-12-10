@@ -8,6 +8,12 @@ Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencode
 
 Unsupervised Learning of PCFGs with Normalizing Flow. [paper](https://www.aclweb.org/anthology/P19-1234/). [code](https://github.com/lifengjin/acl_flow).
 
+#### Improving a Language Model
+
+Scalable Syntax-Aware Language Models Using Knowledge Distillation. [paper](https://www.aclweb.org/anthology/P19-1337/). [code](#).
+
+Language Modeling with Shared Grammar. [paper](https://www.aclweb.org/anthology/P19-1437/). [code](#).
+
 #### Task-oriented Grammar Induction
 
 Learning to Compose Task-Specific Tree Structures, [paper](https://arxiv.org/abs/1707.02786), [code](https://github.com/jihunchoi/unsupervised-treelstm).
