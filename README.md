@@ -18,6 +18,10 @@ Language Modeling with Shared Grammar. [paper](https://www.aclweb.org/anthology/
 
 Learning to Compose Task-Specific Tree Structures, [paper](https://arxiv.org/abs/1707.02786), [code](https://github.com/jihunchoi/unsupervised-treelstm).
 
+#### Visually Grounded Grammar Induction
+
+Visually Grounded Neural Syntax Acquisition, [paper](https://arxiv.org/abs/1906.02890), [code](https://github.com/ExplorerFreda/VGNSL).
+
 ### Dependency Grammar Induction
 
 #### Task-oriented Grammar Induction
