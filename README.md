@@ -20,6 +20,8 @@ Learning to Compose Task-Specific Tree Structures, [paper](https://arxiv.org/abs
 
 #### Visually Grounded Grammar Induction
 
+Visually Grounded Compound PCFGs, [paper](https://arxiv.org/abs/2009.12404), [code](https://github.com/zhaoyanpeng/vpcfg).
+
 Visually Grounded Neural Syntax Acquisition, [paper](https://arxiv.org/abs/1906.02890), [code](https://github.com/ExplorerFreda/VGNSL).
 
 ### Dependency Grammar Induction
