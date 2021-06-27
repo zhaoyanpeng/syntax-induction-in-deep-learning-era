@@ -1,4 +1,11 @@
-### Constituency Grammar Induction
+
+## Dataset
+
+[WSJ](https://catalog.ldc.upenn.edu/LDC99T42), [CTB](https://catalog.ldc.upenn.edu/LDC2005T01), [SPMRL](https://dokufarm.phil.hhu.de/spmrl2014/), and [UD](https://universaldependencies.org/) are widely used. You can check out [XCFG](https://github.com/zhaoyanpeng/xcfg) for treebank preprocessing.
+
+## Dependency Grammar Induction
+
+## Constituency Grammar Induction
 
 Compound Probabilistic Context-Free Grammars for Grammar Induction, [paper](https://arxiv.org/abs/1906.10225), [code](https://github.com/harvardnlp/compound-pcfg).
 
@@ -8,24 +15,24 @@ Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencode
 
 Unsupervised Learning of PCFGs with Normalizing Flow. [paper](https://www.aclweb.org/anthology/P19-1234/). [code](https://github.com/lifengjin/acl_flow).
 
-#### Improving a Language Model
+## Grounded Grammar Induction
 
-Scalable Syntax-Aware Language Models Using Knowledge Distillation. [paper](https://www.aclweb.org/anthology/P19-1337/). [code](#).
+### Language Acquisition
 
-Language Modeling with Shared Grammar. [paper](https://www.aclweb.org/anthology/P19-1437/). [code](#).
+Bootstrapping Language Acquisition, [paper](https://doi.org/10.1016/j.cognition.2017.02.009), [code](). 
 
-#### Task-oriented Grammar Induction
-
-Learning to Compose Task-Specific Tree Structures, [paper](https://arxiv.org/abs/1707.02786), [code](https://github.com/jihunchoi/unsupervised-treelstm).
-
-#### Visually Grounded Grammar Induction
+### Visual Groundings
 
 Visually Grounded Compound PCFGs, [paper](https://arxiv.org/abs/2009.12404), [code](https://github.com/zhaoyanpeng/vpcfg).
 
 Visually Grounded Neural Syntax Acquisition, [paper](https://arxiv.org/abs/1906.02890), [code](https://github.com/ExplorerFreda/VGNSL).
 
-### Dependency Grammar Induction
+## Syntax for Downstream Tasks
 
-#### Task-oriented Grammar Induction
+Scalable Syntax-Aware Language Models Using Knowledge Distillation. [paper](https://www.aclweb.org/anthology/P19-1337/). [code](#).
+
+Language Modeling with Shared Grammar. [paper](https://www.aclweb.org/anthology/P19-1437/). [code](#).
+
+Learning to Compose Task-Specific Tree Structures, [paper](https://arxiv.org/abs/1707.02786), [code](https://github.com/jihunchoi/unsupervised-treelstm).
 
 Learning Latent Trees with Stochastic Perturbations and Differentiable Dynamic Programming, [paper](https://arxiv.org/abs/1906.09992), [code](https://github.com/FilippoC/diffdp).
