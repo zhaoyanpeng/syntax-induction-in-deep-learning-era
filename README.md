@@ -15,17 +15,44 @@ Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencode
 
 Unsupervised Learning of PCFGs with Normalizing Flow. [paper](https://www.aclweb.org/anthology/P19-1234/). [code](https://github.com/lifengjin/acl_flow).
 
-## Grounded Grammar Induction
+## Emerging Topics in Unsupervised Grammar Induction
+
+### Visually Grounded Grammar Induction
+
+- Visually Grounded Neural Syntax Acquisition, [[paper](https://arxiv.org/abs/1906.02890)], [[code](https://github.com/ExplorerFreda/VGNSL)].
+- Visually Grounded Compound PCFGs, [[paper](https://arxiv.org/abs/2009.12404)], [[code](https://github.com/zhaoyanpeng/vpcfg)].
+- VLGrammar: Grounded Grammar Induction of Vision and Language, [[paper](https://arxiv.org/abs/2103.12975)], [[code](https://github.com/evelinehong/VLGrammar)].
+
+### Grammar Induction with Language Models
+
+#### Specialized LMs
+
+- Neural Language Modeling by Jointly Learning Syntax and Lexicon, [[paper](https://arxiv.org/abs/1711.02013)], [[code](https://github.com/yikangshen/PRPN)].
+- Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks, [[paper](https://arxiv.org/abs/1810.09536)], [[code](https://github.com/yikangshen/Ordered-Neurons)].
+
+#### General-Purpose LMs
+
+- Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction, [[paper](https://arxiv.org/abs/2002.00737)], [[code](https://github.com/galsang/trees_from_transformers)].
+- Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT, [[paper](https://arxiv.org/abs/2004.14786)], [[code](https://github.com/LividWo/Perturbed-Masking)].
+
+### Neural Lexicalized Grammar Induction
+
+- The Return of Lexical Dependencies: Neural Lexicalized PCFGs, [[paper](https://arxiv.org/abs/2007.15135)], [[code](https://github.com/neulab/neural-lpcfg)].
+- Neural Bi-Lexicalized PCFG Induction, [[paper](https://arxiv.org/abs/2105.15021)], [[code](https://github.com/sustcsonglin/TN-PCFG)].
+
+### Transfer Learning for Grammar Induction
+
+#### Cross-Lingual Transfer
+
+- Multilingual Grammar Induction with Continuous Language Identification, [[paper](https://aclanthology.org/D19-1576/)], [[code]()].
+
+#### Cross-Domain Transfer
+  
+- On the Transferability of Visually Grounded PCFGs, [[paper]()], [[code](https://github.com/zhaoyanpeng/cpcfg)].
 
 ### Language Acquisition
 
 Bootstrapping Language Acquisition, [paper](https://doi.org/10.1016/j.cognition.2017.02.009), [code](). 
-
-### Visual Groundings
-
-Visually Grounded Compound PCFGs, [paper](https://arxiv.org/abs/2009.12404), [code](https://github.com/zhaoyanpeng/vpcfg).
-
-Visually Grounded Neural Syntax Acquisition, [paper](https://arxiv.org/abs/1906.02890), [code](https://github.com/ExplorerFreda/VGNSL).
 
 ## Syntax for Downstream Tasks
 
